@@ -1,5 +1,8 @@
 [
     {
-        "country": "france", "image": "https://res.cloudinary.com/dnkhcklqq/image/upload/v1690802452/france-flag.png"
+        "imageUrl": "https://res.cloudinary.com/dnkhcklqq/image/upload/v1690802452/highroller-countries/france-flag.png", "country": "france"
+    },
+    {
+        "imageUrl": "https://res.cloudinary.com/dnkhcklqq/image/upload/v1690831152/highroller-countries/italy-flag.png", "country": "italy"
     }
 ]

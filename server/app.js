@@ -20,12 +20,12 @@ app.get('/', (req, res) => {
     res.send(`Welcome to the High Rollers API!`)
 })
 
-// INDEX ACTION (Grab countries, temporary)
+// INDEX ACTION (Grab countries images WIP)
 app.get('/countries', (req, res) => {
     res.send(countries);
 })
 
-// INDEX ACTION (Grabs images)
+// INDEX ACTION (Grabs images public-ids)
 app.get('/images', async (req, res) => {
     const { resources } = await cloudinary.search
         .expression('folder: highroller-countries')

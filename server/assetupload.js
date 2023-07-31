@@ -6,9 +6,9 @@ const cloudinary = require("cloudinary").v2;
 console.log(cloudinary.config().cloud_name);
 
 cloudinary.uploader
-.upload("https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/125px-Flag_of_France.svg.png", {
+.upload("https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/255px-Flag_of_Italy.svg.png", {
     // image is the default resource type if you don't specify
-    public_id: "france-flag"
+    public_id: "italy-flag"
 })
 .then((result) => {
     // JSON.stringify will provide a formatted string

@@ -6,9 +6,9 @@ const cloudinary = require("cloudinary").v2;
 console.log(cloudinary.config().cloud_name);
 
 cloudinary.uploader
-.upload("https://www.nicepng.com/png/detail/38-380428_clip-stock-pyramid-cartoon-facts-about-egypt-for.png", {
+.upload("", {
     // image is the default resource type if you don't specify
-    public_id: "pyramids"
+    public_id: ""
 })
 .then((result) => {
     // JSON.stringify will provide a formatted string

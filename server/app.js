@@ -31,6 +31,27 @@ app.get('/countries/random', (req, res) => {
     res.send(countries[randIdx]);
 })
 
+// SHOW ACTION (random country images easy questions)
+app.get('/countries/random/easy', (req, res) => {
+    const easyCountries = countries.slice(0, 10)
+    const randIdx = Math.floor(Math.random() * easyCountries.length)
+    res.send(easyCountries[randIdx]);
+})
+
+// SHOW ACTION (random country images medium questions)
+app.get('/countries/random/medium', (req, res) => {
+    const mediumCountries = countries.slice(11, 20)
+    const randIdx = Math.floor(Math.random() * mediumCountries.length)
+    res.send(mediumCountries[randIdx]);
+})
+
+// SHOW ACTION (random country images hard questions)
+app.get('/countries/random/hard', (req, res) => {
+    const hardCountries = countries.slice(21, 30)
+    const randIdx = Math.floor(Math.random() * hardCountries.length)
+    res.send(hardCountries[randIdx]);
+})
+
 // SHOW ACTION 
 app.get('/countries/:id', (req, res) => {
     const idx = req.params.id-1;

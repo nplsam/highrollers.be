@@ -42,7 +42,6 @@ app.get('/countries/:id', (req, res) => {
     }
 })
 
-
 // INDEX ACTION (Grabs images public-ids)
 app.get('/images', async (req, res) => {
     const { resources } = await cloudinary.search

@@ -1,8 +1,35 @@
 [
     {
-        "imageUrl": "https://res.cloudinary.com/dnkhcklqq/image/upload/v1690802452/highroller-countries/france-flag.png", "country": "france"
+        "imageUrl": "https://res.cloudinary.com/dnkhcklqq/image/upload/c_scale,h_140,w_200/v1690802452/highroller-countries/france-flag.png", "country": "france"
     },
     {
-        "imageUrl": "https://res.cloudinary.com/dnkhcklqq/image/upload/v1690831152/highroller-countries/italy-flag.png", "country": "italy"
+        "imageUrl": "https://res.cloudinary.com/dnkhcklqq/image/upload/c_scale,h_140,w_200/v1690831152/highroller-countries/italy-flag.png", "country": "italy"
+    },
+    {
+        "imageUrl": "https://res.cloudinary.com/dnkhcklqq/image/upload/c_scale,h_140,w_200/v1690882838/statue-of-liberty.jpg", "country": "usa"
+    },
+    {
+        "imageUrl": "https://res.cloudinary.com/dnkhcklqq/image/upload/c_scale,h_140,w_200/v1690883586/british-tea.jpg", "country": "england"
+    },
+    {
+        "imageUrl": "https://res.cloudinary.com/dnkhcklqq/image/upload/c_scale,h_140,w_200/v1690883923/germany-flag.png", "country": "germany"
+    },
+    {
+        "imageUrl": "https://res.cloudinary.com/dnkhcklqq/image/upload/c_scale,h_140,w_200/v1690884280/kangaroo.png", "country": "australia"
+    },
+    {
+        "imageUrl": "https://res.cloudinary.com/dnkhcklqq/image/upload/c_scale,h_140,w_200/v1690884722/canada-flag.png", "country": "canada"
+    },
+    {
+        "imageUrl": "https://res.cloudinary.com/dnkhcklqq/image/upload/c_scale,h_140,w_200/v1690884786/japan-flag.png", "country": "japan"
+    },
+    {
+        "imageUrl": "https://res.cloudinary.com/dnkhcklqq/image/upload/c_scale,h_140,w_200/v1690885202/taj-mahal.webp", "country": "india"
+    },
+    {
+        "imageUrl": "https://res.cloudinary.com/dnkhcklqq/image/upload/c_scale,h_140,w_200/v1690885492/pyramids.jpg", "country": "egypt"
+    },
+    {
+        "imageUrl": "", "country": ""
     }
 ]

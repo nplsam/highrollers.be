@@ -1,0 +1,92 @@
+[
+    {
+        "imageUrl": "https://res.cloudinary.com/dnkhcklqq/image/upload/c_scale,h_140,w_200/v1690802452/highroller-countries/france-flag.png", "country": "france"
+    },
+    {
+        "imageUrl": "https://res.cloudinary.com/dnkhcklqq/image/upload/c_scale,h_140,w_200/v1690831152/highroller-countries/italy-flag.png", "country": "italy"
+    },
+    {
+        "imageUrl": "https://res.cloudinary.com/dnkhcklqq/image/upload/c_scale,h_140,w_200/v1690882838/highroller-countries/statue-of-liberty.jpg", "country": "usa"
+    },
+    {
+        "imageUrl": "https://res.cloudinary.com/dnkhcklqq/image/upload/c_scale,h_140,w_200/v1690883586/highroller-countries/british-tea.jpg", "country": "england"
+    },
+    {
+        "imageUrl": "https://res.cloudinary.com/dnkhcklqq/image/upload/c_scale,h_140,w_200/v1690883923/highroller-countries/germany-flag.png", "country": "germany"
+    },
+    {
+        "imageUrl": "https://res.cloudinary.com/dnkhcklqq/image/upload/c_scale,h_140,w_200/v1690884280/highroller-countries/kangaroo.png", "country": "australia"
+    },
+    {
+        "imageUrl": "https://res.cloudinary.com/dnkhcklqq/image/upload/c_scale,h_140,w_200/v1690884722/highroller-countries/canada-flag.png", "country": "canada"
+    },
+    {
+        "imageUrl": "https://res.cloudinary.com/dnkhcklqq/image/upload/c_scale,h_140,w_200/v1690884786/highroller-countries/japan-flag.png", "country": "japan"
+    },
+    {
+        "imageUrl": "https://res.cloudinary.com/dnkhcklqq/image/upload/c_scale,h_140,w_200/v1690885202/highroller-countries/taj-mahal.webp", "country": "india"
+    },
+    {
+        "imageUrl": "https://res.cloudinary.com/dnkhcklqq/image/upload/c_scale,h_140,w_200/v1690885492/highroller-countries/pyramids.jpg", "country": "egypt"
+    },
+    {
+        "imageUrl": "https://res.cloudinary.com/dnkhcklqq/image/upload/c_scale,h_140,w_200/v1690886018/highroller-countries/wales.jpg", "country": "wales"
+    },
+    {
+        "imageUrl": "https://res.cloudinary.com/dnkhcklqq/image/upload/c_scale,h_140,w_200/v1690886102/highroller-countries/taco.png", "country": "mexico"
+    },
+    {
+        "imageUrl": "https://res.cloudinary.com/dnkhcklqq/image/upload/c_scale,h_140,w_200/v1690886192/highroller-countries/southkorea-flag.jpg", "country": "south korea"
+    },
+    {
+        "imageUrl": "https://res.cloudinary.com/dnkhcklqq/image/upload/c_scale,h_140,w_200/v1690886252/highroller-countries/zeus.jpg", "country": "greece"
+    },
+    {
+        "imageUrl": "https://res.cloudinary.com/dnkhcklqq/image/upload/c_scale,h_140,w_200/v1690886374/highroller-countries/ikea.jpg", "country": "sweden"
+    },
+    {
+        "imageUrl": "https://res.cloudinary.com/dnkhcklqq/image/upload/c_scale,h_140,w_200/v1690886511/highroller-countries/swiss-flag.jpg", "country": "switzerland"
+    },
+    {
+        "imageUrl": "https://res.cloudinary.com/dnkhcklqq/image/upload/c_scale,h_140,w_200/v1690886836/highroller-countries/chilli.png", "country": "chile"
+    },
+    {
+        "imageUrl": "https://res.cloudinary.com/dnkhcklqq/image/upload/c_scale,h_140,w_200/v1690886971/highroller-countries/turkey.png", "country": "turkey"
+    },
+    {
+        "imageUrl": "https://res.cloudinary.com/dnkhcklqq/image/upload/c_scale,h_140,w_200/v1690887190/highroller-countries/china.jpg", "country": "china"
+    },
+    {
+        "imageUrl": "https://res.cloudinary.com/dnkhcklqq/image/upload/c_scale,h_140,w_200/v1690887397/highroller-countries/christ-redeemer.webp", "country": "brazil"
+    },
+    {
+        "imageUrl": "https://res.cloudinary.com/dnkhcklqq/image/upload/c_scale,h_140,w_200/v1690888434/highroller-countries/mozart.jpg", "country": "austria"
+    },
+    {
+        "imageUrl": "https://res.cloudinary.com/dnkhcklqq/image/upload/c_scale,h_140,w_200/v1690888504/highroller-countries/sistine-chapel.jpg", "country": "vatican"
+    },
+    {
+        "imageUrl": "https://res.cloudinary.com/dnkhcklqq/image/upload/c_scale,h_140,w_200/v1690888547/highroller-countries/uruguay-flag.png", "country": "uruguay"
+    },
+    {
+        "imageUrl": "https://res.cloudinary.com/dnkhcklqq/image/upload/c_scale,h_140,w_200/v1690888607/highroller-countries/ghana-flag.png", "country": "ghana"
+    },
+    {
+        "imageUrl": "https://res.cloudinary.com/dnkhcklqq/image/upload/c_scale,h_140,w_200/v1690888698/highroller-countries/hadrians-wall.jpg", "country": "scotland"
+    },
+    {
+        "imageUrl": "https://res.cloudinary.com/dnkhcklqq/image/upload/c_scale,h_140,w_200/v1690888763/highroller-countries/nepal-flag.png", "country": "nepal"
+    },
+    {
+        "imageUrl": "https://res.cloudinary.com/dnkhcklqq/image/upload/c_scale,h_140,w_200/v1690888851/highroller-countries/amsterdam.webp", "country": "the netherlands"
+    },
+    {
+        "imageUrl": "https://res.cloudinary.com/dnkhcklqq/image/upload/c_scale,h_140,w_200/v1690888927/highroller-countries/merlion.jpg", "country": "singapore"
+    },
+    {
+        "imageUrl": "https://res.cloudinary.com/dnkhcklqq/image/upload/c_scale,h_140,w_200/v1690888974/highroller-countries/clover.png", "country": "ireland"
+    },
+    {
+        "imageUrl": "https://res.cloudinary.com/dnkhcklqq/image/upload/c_scale,h_140,w_200/v1690888252/highroller-countries/spanish-tortilla.jpg", "country": "spain"
+    }
+]
